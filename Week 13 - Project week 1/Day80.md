@@ -1,0 +1,1 @@
+Today, we selected a color theme, completed the high-fidelity wireframe, and experimented with the OpenTripMap API to see what data we could use. We also determined the technologies we'll be using to build our travel companion app. As homework for the weekend, we'll be exploring

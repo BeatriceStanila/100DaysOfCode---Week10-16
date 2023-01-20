@@ -1,0 +1,1 @@
+On the second day, we held a Disney ideation session for the top two ideas and successfully collaborated as a team to choose the most appropriate one. We also created a survey to gather insight on our users' needs and shared it with our peers for their input.

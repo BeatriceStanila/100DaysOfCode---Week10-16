@@ -1,0 +1,1 @@
+On Thursday, I had the opportunity to serve as the Scrum Master for the day, which definitely took me out of my comfort zone. We reviewed the insightful results from the survey and created user personas and stories. Then, we considered which features our MVP must have, should have, and wouldn't have and finished low fidelity wireframe.
