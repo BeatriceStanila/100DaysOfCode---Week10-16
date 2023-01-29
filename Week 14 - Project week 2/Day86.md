@@ -1,6 +1,8 @@
 **Friday: Scrum Master Bea 💪**
 
-Stand-up: Yesterday was a good day. Back end deployed, API blocker fixed, now we just need to prepare the presentation.
+# Stand-up:
+
+Yesterday was a good day. Back end deployed, API blocker fixed, now we just need to prepare the presentation.
 
 **PRESENTATION FEEDBACK**
 
