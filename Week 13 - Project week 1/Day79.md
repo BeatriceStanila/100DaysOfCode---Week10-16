@@ -4,7 +4,7 @@ Thursday
 
 - had the opportunity to serve as the Scrum Master for the day, which definitely took me out of my comfort zone.
 
-✅ Stand-up:
+# Stand-up:
 
 - begin with looking over user data
 - then decide MVP and stretch goals looking at good to have, should have, could have
@@ -14,7 +14,7 @@ Thursday
 - finish the napkin plan including deciding on tech stack tools, using MVP as a guide
 - Stretch goal for today: component tree.
 
-✅ Retro:
+# Retro:
 
 - Have mostly completed the tasks for the day.
 

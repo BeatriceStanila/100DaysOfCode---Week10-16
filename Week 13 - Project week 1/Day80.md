@@ -2,7 +2,7 @@ Friday
 
 ✅ Scrum Master: Ryan
 
-✅ Stand-up:
+# Stand-up:
 
 - Complete colour scheme
 - High Fidelity wireframe
@@ -15,7 +15,7 @@ We will document as we go along by adding detailed inline commenting. If there�
 
 Jo began adding screenshot documentation
 
-✅ Retro:
+# Retro:
 
 Successes:
 
